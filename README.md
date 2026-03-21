@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there, I'm Kindalem Tazeb 👋 ### 🎓 Computer Science Student at Debark University I am an aspiring Full-stack Web Developer from Ethiopia, currently focusing on building real-world applications using modern technologies. --- ### 🚀 What I'm working on: - 🔭 I’m currently working on a Student Registration System using Laravel. - 🌱 I’m currently learning Laravel, PHP, and Tailwind CSS. - 💻 I enjoy building functional systems like Banking and Management software. - 📍 Based in Debark, Ethiopia. ### 🛠️ Tech Stack: - Backend: PHP, Laravel - Frontend: HTML5, CSS3, Tailwind CSS, JavaScript - Tools: VS Code, Git, GitHub, XAMPP --- ### 📫 How to reach me: - GitHub: [kindalemtazeb-ops](https://github.com/kindalemtazeb-ops)(https://github.com/kindalemtazeb-ops)
 
 <!--
 **kindalemtazeb-ops/kindalemtazeb-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
