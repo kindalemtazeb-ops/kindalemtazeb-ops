@@ -40,4 +40,4 @@ I am  Passionate **Full-stack Web Developer** from Ethiopia, currently focusing 
 ### 📫 How to reach me:
 - **GitHub**: [kindalemtazeb-ops](https://github.com/kindalemtazeb-ops)
 - **LinkedIn**: [Kindalem Tazeb](https://www.linkedin.com/in/kindalemtazeb)
-- **Telegram**: [@kindalemtazeb](https://t.me/kindalemtazeb)
+- **Telegram**: [@kindalemtazeb](https://t.me/kindalemtazebcs)
