@@ -30,12 +30,14 @@ I am  Passionate **Full-stack Web Developer** from Ethiopia, currently focusing 
 ---
 
 ### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kindalemtazeb-ops&show_icons=true&theme=radical)
+
+![Kindalem's GitHub stats](https://github-readme-stats.vercel.app/api?username=kindalemtazeb-ops&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kindalemtazeb-ops&layout=compact&theme=radical)
 
 ---
 
 ### 📫 How to reach me:
-### 📫 How to reach me:
 - **GitHub**: [kindalemtazeb-ops](https://github.com/kindalemtazeb-ops)
-- **LinkedIn**: [Kindalem Tazeb](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME)
--- **Telegram**: [@kindalemtazeb](https://t.me/kindalemtazeb)
+- **LinkedIn**: [Kindalem Tazeb](https://www.linkedin.com/in/kindalemtazeb)
+- **Telegram**: [@kindalemtazeb](https://t.me/kindalemtazeb)
