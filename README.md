@@ -1,7 +1,7 @@
 # Hi there, I'm Kindalem Tazeb 👋
 
 ### 🎓 Computer Science Student at Debark University
-I am an Passionate **Full-stack Web Developer** from Ethiopia, currently focusing on building real-world applications using modern technologies.
+I am  Passionate **Full-stack Web Developer** from Ethiopia, currently focusing on building real-world applications using modern technologies.
 
 ---
 
